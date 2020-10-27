@@ -65,4 +65,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     dpmserviceapp \
     ims \
-    qcrilmsgtunnel
+    qcrilmsgtunnel \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON
