@@ -135,6 +135,4 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     CarrierSettings \
     ims \
-    qcrilmsgtunnel \
-    HotwordEnrollmentOKGoogleHEXAGON \
-    HotwordEnrollmentXGoogleHEXAGON
+    qcrilmsgtunnel
