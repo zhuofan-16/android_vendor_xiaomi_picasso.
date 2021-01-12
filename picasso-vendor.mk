@@ -111,6 +111,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
+    vendor.qti.hardware.alarm@1.0 \
     PowerOffAlarm \
     QtiTelephonyService \
     com.android.hotwordenrollment.common.util \
